@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+
+  <title>Frontend Mentor | Intro component with sign up form</title>
+
+ 
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
+</head>
+<body>
+<!-- old menu
+    <header class="header">
+        <nav class="nav">
+          <img class="logo" src="coin.png">
+          <ul class="nav-menu">
+            <li><a href="#">Get Started</a></li>
+            <li><a href="#">Team</a></li>
+            <li><a href="#">FAQ</a></li>
+            <li><a href="#">Blog</a></li>
+            
+          </ul>
+      
+        </nav>
+      </header>
+    -->
+<!--new menu-->
+    <header class="header">
+      <img class="dollar" src="coin.png">
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+      <ul class="menu">
+        <li><a href="#getstarted">Get Started</a></li>
+        <li><a href="#team">The Team</a></li>
+        <li><a href="#roadmap">Roadmap</a></li>
+        <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3">FAQ</a></li>
+
+      </ul>
+    </header>
+<!--new menu end-->
+  <div id="page-container">
+     
+<div class="blank">
+    
+    <div class="introtext">
+        <div class="tylercoin">
+            <h1>Tyler Coin</h1>
+            </div>
+        <div class="typing">
+          Fast. Stable. Fee-less.
+        </div>
+        <div class="buttons">
+        <button type="button" onclick="location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3'">Buy Tyler Coins</button>
+        &nbsp;
+        <button type="button" onclick="location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3'">View Whitepaper</button>
+        </div>
+    </div>
+</div>
+
+<div class="content" id="getstarted">
+  <div class="left">
+    <h1>What is Tyler Coin?</h1>
+    <img src="question.png">
+  </div>
+  <div class="right">
+    <h2>Decentralized</h2>
+    <p>Tyler Coin is an open source proof-of-steak (yum) decentralized peer-to-peer ERC-20 token based on ethereum</p>
+    <h2>Really Fast</h2>
+    <p>Since Tyler Coin runs on the ethereum network, it is super fast; almost as fast as some other popular crypto currencies.. such as ethereum!</p>
+    <h2>Fee-less</h2>
+    <p>One of the best parts is that Tyler Coin is completely fee-less. Since it is currently running on the testnet and doesn't use real eth, we can technically say it is fee-less.</p>
+    <h2>Stable</h2>
+    <p>One of the great benefits to no one using your coin, is that the price remains at a very stable $0.</p>
+  </div>
+</div>
+
+<div class="holdmoon">
+  <div class="moonrocket"> 
+    <div class="rocket">
+        <img src="https://img.icons8.com/plasticine/100/000000/rocket.png" alt="rocket" width="20%">
+    </div>
+    <img id="moon" class="moonpng" src="http://www.clker.com/cliparts/8/4/7/a/12279737022024966533rg1024_Moon_in_comic_style.svg" alt="moon">
+  </div>
+  <div class="moontext">
+    
+    <h1>Guaranteed moonshot?</h1>
+    
+    
+    <br>
+    <h2>Its hard to see how Tyler Coin could NOT go to the moon at this point! Are you sold yet?</h2>
+    <button type="button" onclick="location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3'">Buy Tyler Coins</button>
+    
+  </div>
+</div>
+
+<div class="content2" id="team">
+  <h1>Meet the team!</h1>
+  <div class="teamwrapper">
+  <div class="team">
+    <img class="face" src="face1.png">
+    <h3>Tyler - Blockchain Expert</h3>
+    <p>Tyler first chained two blocks together when he was three years old. Since then he has been adding even more blocks to that chain!</p>
+  </div>
+
+  <div class="team">
+    <img class="face" src="face2.png">
+    <h3>Tyler - Lead Developer</h3>
+    <p>Head professionally shaped like an egg, Tyler was working with the latest technology straight out of the womb. At 25 years old, he already has 26 years of software engineering experience.</p>
+  </div>
+
+    <div class="team">
+      <img class="face" src="face3.png">
+      <h3>Tyler - Media Specialist</h3>
+      <p>The cool Tyler, always able to adapt to changing circumstances. He is known far and wide for his ability to scroll through social media feeds using his right or left hand.</p>
+    </div>
+  </div>
+</div>
+
+<div class="blank">
+  <!-- Vertical Timeline -->
+  <section id="conference-timeline">
+    <div id="roadmap" class="timeline-start">Roadmap</div>
+    <div class="conference-center-line"></div>
+    <div class="conference-timeline-content">
+      <!-- Article -->
+      <div class="timeline-article">
+        <div class="content-left-container">
+          <div class="content-left">
+            <h3>Q4 2020</h3>
+            <p>Formation of development and marketing team. Creation of whitepaper.</p>
+          </div>
+          
+        </div>
+        <div class="content-right-container">
+          <div class="content-right">
+            <h3>Q1 2021</h3>
+            <p>Creation of website and registration of domain.</p>
+          </div>
+          
+        </div>
+        <div class="center-circle">
+          
+        </div>
+      </div>
+      <!-- // Article -->
+      
+      <!-- Article -->
+      <div class="timeline-article">
+        <div class="content-left-container">
+          <div class="content-left">
+            <h3>Q2 2021</h3>
+            <p>Initial concept and creation of offical twitter accounts for maximum HYPE!</p>
+          </div>
+         
+        </div>
+        <div class="content-right-container">
+          <div class="content-right">
+            <h3>Q3 2021</h3>
+            <p>Vacation for development team. Someplace with a nice beach.</p>
+          </div>
+          
+        </div>
+        <div class="center-circle">
+          
+        </div>
+      </div>
+      <!-- // Article -->
+      
+      <!-- Article -->
+      <div class="timeline-article">
+        <div class="content-left-container">
+          <div class="content-left">
+            <h3>Q4 2021</h3>
+            <p>Tyler Coin launches on the testnet.</p>
+          </div>
+          
+        </div>
+        <div class="content-right-container">
+          <div class="content-right">
+            <h3>Q1 2022</h3>
+            <p>Too far in the future to tell but probably will involve going to the moon.</p>
+          </div>
+          
+        </div>
+        <div class="center-circle">
+          
+        </div>
+      </div>
+      <!-- // Article -->
+    </div>
+    <div class="timeline-end">The Moon</div>
+  </section>
+</div>
+<div class="footer"></div>
+
+
+  
+
+</body>
+</html>
