@@ -1,0 +1,6 @@
+C:\Users\xians\source\repos\ConsoleApp2withDLL\mydll\bin\Debug\mydll.dll
+C:\Users\xians\source\repos\ConsoleApp2withDLL\mydll\bin\Debug\mydll.pdb
+C:\Users\xians\source\repos\ConsoleApp2withDLL\mydll\obj\Debug\mydll.csproj.AssemblyReference.cache
+C:\Users\xians\source\repos\ConsoleApp2withDLL\mydll\obj\Debug\mydll.csproj.CoreCompileInputs.cache
+C:\Users\xians\source\repos\ConsoleApp2withDLL\mydll\obj\Debug\mydll.dll
+C:\Users\xians\source\repos\ConsoleApp2withDLL\mydll\obj\Debug\mydll.pdb

@@ -1,0 +1,12 @@
+C:\Users\xians\source\repos\ConsoleApp2withDLL\WinFormsLibrary1dll\bin\Debug\net6.0-windows\WinFormsLibrary1dll.deps.json
+C:\Users\xians\source\repos\ConsoleApp2withDLL\WinFormsLibrary1dll\bin\Debug\net6.0-windows\WinFormsLibrary1dll.dll
+C:\Users\xians\source\repos\ConsoleApp2withDLL\WinFormsLibrary1dll\bin\Debug\net6.0-windows\WinFormsLibrary1dll.pdb
+C:\Users\xians\source\repos\ConsoleApp2withDLL\WinFormsLibrary1dll\obj\Debug\net6.0-windows\WinFormsLibrary1dll.csproj.AssemblyReference.cache
+C:\Users\xians\source\repos\ConsoleApp2withDLL\WinFormsLibrary1dll\obj\Debug\net6.0-windows\WinFormsLibrary1dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xians\source\repos\ConsoleApp2withDLL\WinFormsLibrary1dll\obj\Debug\net6.0-windows\WinFormsLibrary1dll.AssemblyInfoInputs.cache
+C:\Users\xians\source\repos\ConsoleApp2withDLL\WinFormsLibrary1dll\obj\Debug\net6.0-windows\WinFormsLibrary1dll.AssemblyInfo.cs
+C:\Users\xians\source\repos\ConsoleApp2withDLL\WinFormsLibrary1dll\obj\Debug\net6.0-windows\WinFormsLibrary1dll.csproj.CoreCompileInputs.cache
+C:\Users\xians\source\repos\ConsoleApp2withDLL\WinFormsLibrary1dll\obj\Debug\net6.0-windows\WinFormsLibrary1dll.dll
+C:\Users\xians\source\repos\ConsoleApp2withDLL\WinFormsLibrary1dll\obj\Debug\net6.0-windows\refint\WinFormsLibrary1dll.dll
+C:\Users\xians\source\repos\ConsoleApp2withDLL\WinFormsLibrary1dll\obj\Debug\net6.0-windows\WinFormsLibrary1dll.pdb
+C:\Users\xians\source\repos\ConsoleApp2withDLL\WinFormsLibrary1dll\obj\Debug\net6.0-windows\ref\WinFormsLibrary1dll.dll
